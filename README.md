@@ -1,3 +1,3 @@
-### Referências:
 Repositório dedicado ao projeto final da disciplina de Termodinâmica Estatística. Código representa modificação do código original disponibilizado pelo professor. Adaptação para o sistema de paramagneto de spin 1/2.
-- ["A Guide to Monte Carlo Simulations in Statistical Physics"]
+### Referências:
+- ["A Guide to Monte Carlo Simulations in Statistical Physics"] (https://www.cambridge.org/core/books/guide-to-monte-carlo-simulations-in-statistical-physics/5C8A7F5D3E3C6E5D1C8E4B8F2F4F4D3B) - David P. Landau e Kurt Binder
